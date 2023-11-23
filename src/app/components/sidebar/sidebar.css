@@ -1,0 +1,14 @@
+.sidebar-list-item {
+  font-size: 14px;
+  padding: 10px 0;
+}
+
+.sidebar-items > h2 {
+  font-weight: 900;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.sidebar-items ul li h3 {
+  cursor: pointer;
+}

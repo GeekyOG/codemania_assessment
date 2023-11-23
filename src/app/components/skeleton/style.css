@@ -1,0 +1,11 @@
+.skeleton-header {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.skeleton-main {
+  height: 150px;
+  width: 90%;
+  margin: 0 auto;
+}

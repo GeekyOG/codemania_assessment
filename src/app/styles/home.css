@@ -1,0 +1,14 @@
+.pagination {
+  margin: 0 auto;
+  width: 200px;
+  margin-top: 20px;
+}
+
+.pagination li {
+  display: inline-flex;
+  margin-right: 10px;
+}
+
+.pagination .active {
+  color: red;
+}
